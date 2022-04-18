@@ -1,5 +1,3 @@
-# SE577-App (se577-architecture-demo)
-
 Architecture demonstration project
 
 ## Install the dependencies
